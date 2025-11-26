@@ -1,0 +1,12 @@
+* {
+  box-sizing: border-box;
+  font-family: 'poppins', sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+a.active{
+  color: rgb(96, 192, 196);
+}
